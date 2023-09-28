@@ -22,9 +22,6 @@
 ### USE-CASE
 ![alt text](assets/usecase.png)
 
-### BPMN
-![alt text](assets/diagram.svg)
-
 ### Основные пользовательские сценарии
 Неавторизованному пользователю разрешено:  
 * просматривать каталог и описание товаров;
@@ -49,6 +46,9 @@
 
 ### Диаграмма БД
 ![alt text](assets/db.png)
+
+### BPMN
+![alt text](assets/diagram.svg)
 
 ### Верхнеуровневое разбиение на компоненты 
 ![alt text](assets/tlarchitecture.png)
